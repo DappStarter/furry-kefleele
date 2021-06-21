@@ -1,0 +1,8 @@
+{
+    "name": "regular_payments",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true
+    }
+}
